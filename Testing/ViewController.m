@@ -25,7 +25,7 @@
     
     self.labelFive.text=@"Fivbnkbhjkbnkbnjke";
     
-    self.labelSeven.text=@"Seven";
+    self.labelSeven.text=@"Sevjhgjen";
     
     
     

@@ -28,7 +28,8 @@
     self.labelSeven.text=@"Sevjhgjen";
     
     
-    
+    ///self.labelSeven.text=@"Sevjhgjen";
+    ///changes done 
     
     
     

@@ -19,7 +19,7 @@
     
     
     
-    self.labelOne.text=@"One";
+    self.labelOne.text=@"Onbhbhbve";
     
     self.labelThree.text=@"Three";
     

@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface TestingViewController : UIViewController
-
+-(void)fakeMethod;
 @end
